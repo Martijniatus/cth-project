@@ -6,7 +6,22 @@
     height:200px;
 }
 .button {
-    display: inline;
     margin-left: auto;
     margin-right: auto;
+    background-color:black;
+    color:white;
+}
+#toolbar {
+    background-color:black;
+    text-align:center;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    font:verdana;
+}
+.section{
+    background-color:black;
 }
